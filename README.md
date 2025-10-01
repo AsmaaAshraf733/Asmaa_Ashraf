@@ -1,7 +1,9 @@
 # Asmaa_Ashraf
 # 👋 Hi, I'm Asmaa!
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50">
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100">
+</p>
 
 ## 🚀 About Me
 🌱 I’m learning **Web Development & Computer Science**  
